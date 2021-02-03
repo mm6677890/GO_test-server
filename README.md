@@ -1,8 +1,8 @@
-// Guide (I am using bash)\
+// Guide (I am using bash and make two Docker command inside this file)\
 // (Something I want to say)\
 // It is my first time to use GO and Docker. Go is really different from Nodejs with Expressjs.\
 // Hopefully the program is runnable lol. I have added some comments inside the main.go file. Thanks.\
-// ###################################################################################################\
+// #################################################################################################
 
 // @ GET request\
 // Simply get the array back\
